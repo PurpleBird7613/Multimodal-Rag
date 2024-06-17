@@ -32,7 +32,7 @@ def plot_diagram(file_name,prompt):
     
     
 #+++++++++++++++ Vector Store method ++++++++++++++++++++++
-# loading and spliting into chuncks of csv data
+# loading and spliting into chuncks of excel data
 def get_excel_data(file_name):
     # Load your Excel file
     loader = UnstructuredExcelLoader(file_path = f"Data/Excel/{file_name}")
