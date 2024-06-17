@@ -30,7 +30,7 @@ To get started with the Multimodal RAG Application, follow these steps:
 
 4. *Set Up API Key:*
 
-    The application requires an API key to function. You need to set the GROQ_API_KEY inside the `.env` file.
+    The application requires an API key to function. You need to set the `GROQ_API_KEY` inside the `.env` file.
     
     ```
     GROQ_API_KEY=your_api_key_here
