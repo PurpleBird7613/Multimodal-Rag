@@ -1,6 +1,6 @@
 # Multimodal RAG Application🖥️📚🤖
 
-Welcome to the Multimodal RAG (Retrieve-and-Generate) Application! This project enables you to chat with your documents, asking questions, requesting summaries, and receiving detailed explanations based on the contents of PDF, CSV, and Excel files.
+Welcome to the Multimodal RAG (Retrieval-Augmented Generation) Application! This project enables you to chat with your documents, asking questions, requesting summaries, and receiving detailed explanations based on the contents of PDF, CSV, and Excel files.
 
 ## Features✨
 
